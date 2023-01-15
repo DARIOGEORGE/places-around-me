@@ -176,13 +176,29 @@ map.html :
 </html>
 ```
 ## Output:
-![SEC IMAGE](./images/SEC MAP.png)
-![SEC ADMIN](places-around-me/images/SEC Admin.png)
-![SEC RB](places-around-me/images/SEC RB.png)
-![SEC EEE](places-around-me/images/SEC EEE.png)
-![SEC CSE](places-around-me/images/SEC CSE.png)
-![SEC GIRLS HOSTEL](places-around-me/images/SEC G H.png)
-![SEC BOYS HOSTEL](places-around-me/images/SEC B H.png)
-![SEC ECE](places-around-me/images/SEC ECE.png)
+### SEC IMAGE
+![SEC MAP](https://user-images.githubusercontent.com/118704873/212535684-1cfbe819-0a0e-4bf5-b413-8fe4bcecb915.png)
+
+### SEC ADMIN
+![SEC Admin](https://user-images.githubusercontent.com/118704873/212535725-fa2ddbcc-0e71-40e1-8af1-e58afbaa95c7.png)
+
+### SEC RB
+![SEC RB](https://user-images.githubusercontent.com/118704873/212535745-9fb4b93d-c4a0-4000-8fab-827adb8753ce.png)
+
+### SEC EEE
+![SEC EEE](https://user-images.githubusercontent.com/118704873/212535786-06c815c6-e4cf-49d4-87ae-8eb1e5352a0f.png)
+
+### SEC CSE
+![SEC CSE](https://user-images.githubusercontent.com/118704873/212535807-fcb6db03-7b54-4f93-90ab-8c25ad06dd24.png)
+
+### SEC GIRLS HOSTEL
+![SEC G H](https://user-images.githubusercontent.com/118704873/212535837-3cd65be7-5f69-4bae-84c6-f0ab43c53ba1.png)
+
+### SEC BOYS HOSTEL
+![SEC B H](https://user-images.githubusercontent.com/118704873/212535854-b50f2875-9934-40b7-940b-eea0e778d03e.png)
+
+### SEC ECE
+![SEC ECE](https://user-images.githubusercontent.com/118704873/212535880-ffc37f8b-8967-445d-af3b-bfa754852ce0.png)
+
 ## Result:
 Thus The Web Is Developed To Show The Details Of SEC
