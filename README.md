@@ -200,5 +200,8 @@ map.html :
 ### SEC ECE
 ![SEC ECE](https://user-images.githubusercontent.com/118704873/212535880-ffc37f8b-8967-445d-af3b-bfa754852ce0.png)
 
+### HTML Validator
+![HTML Validator](https://user-images.githubusercontent.com/118704873/213202896-1da328c2-f4e5-4d0b-a001-bfefad85d6c6.png)
+
 ## Result:
 Thus The Web Is Developed To Show The Details Of SEC
